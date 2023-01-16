@@ -12,10 +12,10 @@ function Portfolio() {
       repo: "https://github.com/dlzinck/Away"
     },
     {
-      name: 'Text-Editor-(PWA)',
-      description: 'Node/Webpack',
-      link: "https://github.com/dlzinck/Super-Awesome-Text-Editor",
-      repo: "https://github.com/dlzinck/Super-Awesome-Text-Editor"
+      name: 'To-Do-List',
+      description: 'React',
+      link: "https://dlzinck.github.io/To-Do-List/",
+      repo: "https://github.com/dlzinck/To-Do-List"
     },
     {
       name: 'Password-Generator',
