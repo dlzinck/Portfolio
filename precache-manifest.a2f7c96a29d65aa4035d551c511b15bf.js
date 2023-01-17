@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "912e6d221cdd72f86cde1295c71745e6",
+    "revision": "620d9f4755ed476710bf480016e66de5",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "e47ca4a398fedb921e49",
+    "revision": "02a0b7f1920620df2409",
     "url": "/Portfolio/static/css/main.44727169.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.0c4d01c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e47ca4a398fedb921e49",
-    "url": "/Portfolio/static/js/main.28378840.chunk.js"
+    "revision": "02a0b7f1920620df2409",
+    "url": "/Portfolio/static/js/main.e792c59d.chunk.js"
   },
   {
     "revision": "db1ea67b8a08076c9f67",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Password-Generator.d8aec594.jpg"
   },
   {
-    "revision": "4c7658dfbe9fa47d53602e0ff94c5410",
-    "url": "/Portfolio/static/media/Text-Editor-(PWA).4c7658df.jpg"
+    "revision": "433a73e9cab12d6a89445260596e4191",
+    "url": "/Portfolio/static/media/To-Do-List.433a73e9.jpg"
   },
   {
     "revision": "4eed8f71a69bc7f9e3682c112da96511",
